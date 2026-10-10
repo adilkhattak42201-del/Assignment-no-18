@@ -1,0 +1,4 @@
+timestamp,state,confidence,action
+2026-10-09 22:02:15,Awake,0.92,Normal Driving
+2026-10-09 22:02:15,Drowsy,0.85,Warning Alarm Triggered
+2026-10-09 22:02:15,Fatigue,0.89,Emergency Fleet Alert Sent
